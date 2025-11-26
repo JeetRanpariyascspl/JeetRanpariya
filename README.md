@@ -1,9 +1,9 @@
 ```
     ╔═══════════════════════════════════════════════════════════╗
     ║                                                           ║
-    ║        👋 Welcome to Jeet Ranpariya's GitHub Profile    ║
+    ║                    Jeet Ranpariya                         ║
     ║                                                           ║
-    ║     Full-Stack Developer | .NET | Python | JavaScript   ║
+    ║     Full-Stack Developer | .NET | Python | JavaScript     ║
     ║                                                           ║
     ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -172,8 +172,8 @@ Feel free to explore my repositories, star ⭐ if you find something useful, and
 
 ```
     ╔═══════════════════════════════════════════════════════╗
-    ║  "Every line of code is an opportunity to learn"    ║
-    ║                 ~ Keep building! 🚀                  ║
+    ║  "Every line of code is an opportunity to learn"      ║
+    ║                 ~ Keep building!                      ║
     ╚═══════════════════════════════════════════════════════╝
 ```
 
